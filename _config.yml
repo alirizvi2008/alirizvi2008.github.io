@@ -138,9 +138,11 @@ content:
         quote: >
           The University of Mumbai is one of the oldest and premier Universities in India. It was established in 1857 consequent upon “Wood’s Education Dispatch”, and it is one amongst the first three Universities in India.
         description: | # this will include new lines to allow paragraphs
-          During my time at University I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
+          During my time at University I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time in university and learnt a lot about a healthy work life balance.
 
           I spent a lot of my free time as a committee member of the *MS-TSEC* committee taking on roles such as *Web Master*.
+
+          Specialization - Data structures and Analysis of Algorithms.
 
   # - title: A Little More About Me
   #   layout: text
@@ -155,7 +157,7 @@ content:
   #     ![Trees](/images/landscape-trees.jpg "Trees")
 
 # Footer
-footer_show_references: true
+footer_show_references: false
 # references_title: References on request (Override references text)
 
 # Build settings
