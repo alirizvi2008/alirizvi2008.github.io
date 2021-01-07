@@ -49,9 +49,10 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile-pic.png
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Ali.
-
-  I am most skilled in: <mark>Eating Pizza</mark>
+  HELLO! I am a Full Stack Developer currently working at Agoda - Booking Holdings Group,
+  Bangkok previously worked at Omio - GoEuro, Media.net - Directi group having 5+ years of
+  experience primarily in ASP.Net MVC, .Net Core, Node Js, Java, Scala, GraphQL, Javascript, ReactJs,
+  Redux and AngularJs.
 
 content:
   - title: Projects # Title for the section
