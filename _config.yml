@@ -78,7 +78,7 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Agoda - Booking Holdings Group 
+        title: agoda 
         link: https://www.agoda.com
         # link_text: Agoda Website
         sub_title: Senior Full Stack Software Engineer
@@ -90,7 +90,7 @@ content:
             Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
 
       - layout: left
-        title: Omio - GoEuro
+        title: omio - GoEuro
         link: https://www.omio.com
         # link_text: Omio Website
         sub_title: Software Engineer
@@ -102,8 +102,7 @@ content:
             Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
 
       - layout: left
-        title: Agoda - Booking Holdings Group 
-        link: https://www.agoda.com
+        title: agoda
         sub_title: ITIC Senior Engineer
         caption: Feb 2019 - Oct 2019 <br /> 
           Central world, Bangkok
@@ -111,8 +110,7 @@ content:
             Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
 
       - layout: left
-        title: Agoda - Booking Holdings Group 
-        link: https://www.agoda.com
+        title: agoda
         sub_title: Full Stack Software Engineer
         caption: Nov 2017 - Jan 2019 <br /> 
           Central world, Bangkok
@@ -120,7 +118,7 @@ content:
             Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
 
       - layout: left
-        title: Media.Net - Directi Group
+        title: media.net
         link: https://www.media.net
         sub_title: Web Developer
         caption: Jun 2015 - Oct 2017 <br /> 
