@@ -62,10 +62,10 @@ content:
         title: Super awesome project
         link: github.com/alirizvi2008
         # link_text: Project Website
-        additional_links:
-          - title:  alirizvi2008/modern-resume-theme
-            icon: fab fa-github
-            url: github.com/alirizvi2008/modern-resume-theme
+        # additional_links:
+        #   - title:  alirizvi2008/modern-resume-theme
+        #     icon: fab fa-github
+        #     url: github.com/alirizvi2008/modern-resume-theme
           # - title:  Github page for project (eg. alirizvi2008/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. alirizvi2008.github.io/modern-resume-theme)
@@ -94,7 +94,7 @@ content:
         link: https://www.omio.com
         # link_text: Omio Website
         sub_title: Software Engineer
-        caption: November 2019 - March 2020 <br />  
+        caption: November 2019 - March 2020 <br/>  
           Berlin
         quote: >
           Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
