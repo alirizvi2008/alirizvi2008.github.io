@@ -9,7 +9,8 @@ version: 2
 name: Ali Rizvi
 title: Senior Full Stack Software Engineer
 email: alirizvi2008@gmail.com
-website: www.github.com/alirizvi2008
+phone: +66 806600946
+# website: www.github.com/alirizvi2008
 
 # Dark Mode (true/false/never)
 darkmode: false
@@ -117,7 +118,7 @@ footer_show_references: true
 # references_title: References on request (Override references text)
 
 # Build settings
-remote_theme: alirizvi2008/resume-theme
+remote_theme: sproogen/modern-resume-theme
 
 sass:
   sass_dir: _sass
