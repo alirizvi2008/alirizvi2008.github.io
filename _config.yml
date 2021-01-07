@@ -79,10 +79,10 @@ content:
     content:
       - layout: left
         title: Agoda - Booking Holdings Group 
-        link: www.agoda.com
-        link_text: Agoda Website
+        link: https://www.agoda.com
+        # link_text: Agoda Website
         sub_title: Senior Full Stack Software Engineer
-        caption: April 2020 - Present | 
+        caption: April 2020 - Present <br /> 
           Central world, Bangkok
         quote: >
           Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
@@ -91,10 +91,10 @@ content:
 
       - layout: left
         title: Omio - GoEuro
-        link: www.omio.com
-        link_text: Omio Website
+        link: https://www.omio.com
+        # link_text: Omio Website
         sub_title: Software Engineer
-        caption: November 2019 - March 2020 | 
+        caption: November 2019 - March 2020 \n 
           Berlin
         quote: >
           Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
