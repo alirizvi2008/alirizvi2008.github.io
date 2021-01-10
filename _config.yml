@@ -87,7 +87,8 @@ content:
           Working as a senior fullstack developer in a cross-functional Pricing team for frontend department.
         description: | # this will include new lines to allow paragraphs
             Designing and implementing features for the customers, features related to pricing and coupons.
-            Worked on complex end to end features. 
+            Working on complex end to end features across the funnel.
+            Contributing in maintaining the code quality for frontend. 
 
       - layout: left
         title: omio - GoEuro
@@ -100,6 +101,7 @@ content:
         description: | # this will include new lines to allow paragraphs
             Worked on the new express checkout flow, for one click booking.
             Improved the price and fare breakdown with clarity and consistency across the funnel for apps and web.
+            Developed features on booking page and post booking emailing systems.
 
       - layout: left
         title: agoda
