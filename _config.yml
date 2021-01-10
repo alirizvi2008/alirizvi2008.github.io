@@ -110,6 +110,7 @@ content:
             Implemented various features related to multi booking, family/business segments of bookings.
             Contributed in department efforts in improving the test coverage and performance optimization.
 
+
       - layout: left
         title: media.net
         link: https://www.media.net
@@ -119,10 +120,9 @@ content:
           Joined as a fresher, worked as a web developer for the fullstack web team.
         description: | # this will include new lines to allow paragraphs
             Developed and maintained websites, web apps build in ASP.Net and Angular. 
-            
             Developed standalone product to integrate into other web apps to show rich html banners.
-
             Developed and maintained OAuth2 Developer app for our ad inventory product to enable other providers integrate with out product. 
+            Researched and implemented an internal tool in MEAN stack to monitor health of redis db.
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
