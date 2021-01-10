@@ -110,6 +110,10 @@ content:
             Implemented various features related to multi booking, family/business segments of bookings.
             Contributed in department efforts in improving the test coverage and performance optimization.
 
+            Worked on both desktop and mobile version of the flights page.
+            Implemented booking flow from UI to backend with whitelabel support.
+            Worked on the credit card form as a standalone form for the PCI zone.
+            Integrated responsive ads on pages.
 
       - layout: left
         title: media.net
