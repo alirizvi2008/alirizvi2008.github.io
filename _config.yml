@@ -54,26 +54,9 @@ about_content: | # this will include new lines to allow paragraphs
   experience primarily in ASP.Net MVC, .Net Core, NodeJs, Java, Scala, GraphQL, Javascript, Typescript, 
   ReactJs, Redux and AngularJs.
 
-content:
-  # - title: Projects # Title for the section
-  #   layout: list # Type of content section (list/text)
-  #   content:
-  #     - layout: top-middle
-  #       title: Super awesome project
-  #       link: github.com/alirizvi2008
-  #       # link_text: Project Website
-  #       # additional_links:
-  #       #   - title:  alirizvi2008/modern-resume-theme
-  #       #     icon: fab fa-github
-  #       #     url: github.com/alirizvi2008/modern-resume-theme
-  #         # - title:  Github page for project (eg. alirizvi2008/modern-resume-theme)
-  #         #   icon: fab fa-github
-  #         #   url: Link to project (eg. alirizvi2008.github.io/modern-resume-theme)
-  #       quote: >
-  #         This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
-  #       description: | # this will include new lines to allow paragraphs
-  #         I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+  I am passionate about building high-quality, scalable, predictable and high-performance web applications or softwares that improves the lives of those around me. 
 
+content:
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
