@@ -140,14 +140,16 @@ content:
       - [Micro Frontends with React](https://www.udemy.com/certificate/UC-466802e3-0c22-4dc1-83bc-c4ae4c8e69be/)
       - [React JS - Mastering Redux](https://www.udemy.com/certificate/UC-ef0038e4-787b-4aa7-ac11-4a647055214c/)
       - [React styled-components v5](https://www.udemy.com/certificate/UC-43b4e958-5e96-43f6-905a-127196630622/)
+      - [MobX with React](https://www.udemy.com/certificate/UC-68548b48-e3e4-486e-b3e4-87ea8dd32916/)
 
   - title: Skills
     layout: text
     content: | # this will include new lines to allow paragraphs
       - 5+ years of experience in ASP.NET MVC, C#, Java, SQL ,CSS, SCSS, webpack,
-        Javascript & JS frameworks like AngularJs, ReactJs, Redux, Jquery and Underscore.js/lodash.
+        Javascript & JS frameworks like AngularJs, KnockoutJs, ReactJs, Redux, Jquery and Underscore.js/lodash.
       - 2+ years of experience in Java, Docker.
       - 1+ year of experience with Node Js with express framework & handlebars.
+      - Experience covering client side code with testing framework like cypress, jest, enzyme, mocha, jasmine.
       - Extensive experience working in an Agile development environment.
       - Comfortable with tools and CI-CD such as Teamcity, Jenkins, Octopus, TortoiseSVN, GIT.
       - Familiar with databases - MS SQL, Redis, Counchbase.
