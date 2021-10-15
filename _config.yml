@@ -62,17 +62,29 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
+        title: booking.com 
+        link: https://www.booking.com
+        # link_text: Agoda Website
+        sub_title: Full Stack Developer<br/><small>May 2021 - Present</small>
+        caption: Amsterdam
+        quote: >
+          Working as a fullstack developer in webcore team under accomodations business unit.
+        description: | # this will include new lines to allow paragraphs
+            Designing and implementing features on the index page using ML logics.
+            Working on migrating frontend code from Perl stack to React SSR with typescript using MFEs.
+            
+      - layout: left
         title: agoda 
         link: https://www.agoda.com
         # link_text: Agoda Website
-        sub_title: Senior Full Stack Software Engineer<br/><small>Apr 2020 - Present</small>
+        sub_title: Senior Full Stack Software Engineer<br/><small>Apr 2020 - May 2021</small>
         caption: Central world, Bangkok
         quote: >
           Working as a senior fullstack developer in a cross-functional Pricing team for frontend department.
         description: | # this will include new lines to allow paragraphs
             Designing and implementing features for the customers, features related to pricing and coupons.
-            Working on complex end to end features across the funnel.
-            Contributing in maintaining the code quality for frontend. 
+            Worked on complex end to end features across the funnel.
+            Contributed in maintaining the code quality for frontend. 
 
       - layout: left
         title: omio - GoEuro
