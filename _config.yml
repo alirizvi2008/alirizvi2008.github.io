@@ -49,13 +49,13 @@ gtag: "G-7S9QH6DGBK"
 # about_title: About Me
 about_profile_image: images/profile-pic.png
 about_content: | # this will include new lines to allow paragraphs
-  HELLO! I am a Full Stack Developer currently working at Agoda - Booking Holdings Group,
-  Bangkok previously worked at Omio - GoEuro, Media.net - Directi group having over 5 years of
+  HELLO! I am a Full Stack Developer currently working at Booking.com - Booking Holdings Group,
+  Amsterdam previously worked at Agoda - Booking Holdings Group, Omio - GoEuro, Media.net - Directi group having over 6 years of
   experience primarily in ASP.Net MVC, .Net Core, NodeJs, Java, Scala, GraphQL, Javascript, Typescript, 
   ReactJs, Redux and AngularJs.
 
   I am passionate about building high-quality, scalable, predictable and high-performance web applications or softwares that improves the lives of those around me. 
-  I like to resolve design problems, create smart user interface and developing rich web experiences & web applications
+  I like to resolve design problems, create smart user interface and developing rich web experiences & web applications.
 
 content:
   - title: Experience # Title for the section
